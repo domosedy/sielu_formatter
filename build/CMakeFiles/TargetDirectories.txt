@@ -1,3 +1,0 @@
-/home/sielu/Projects/CPP/sielu_formatter/build/CMakeFiles/domo-format.dir
-/home/sielu/Projects/CPP/sielu_formatter/build/CMakeFiles/edit_cache.dir
-/home/sielu/Projects/CPP/sielu_formatter/build/CMakeFiles/rebuild_cache.dir

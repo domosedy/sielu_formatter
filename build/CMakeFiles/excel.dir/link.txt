@@ -1,1 +1,0 @@
-/sbin/g++-12 -g CMakeFiles/excel.dir/src/main.cpp.o -o excel 
