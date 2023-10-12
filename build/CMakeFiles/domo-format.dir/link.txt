@@ -1,0 +1,1 @@
+/sbin/g++-12 -g "CMakeFiles/domo-format.dir/src/main.cpp.o" "CMakeFiles/domo-format.dir/src/file_parser.cpp.o" -o domo-format 

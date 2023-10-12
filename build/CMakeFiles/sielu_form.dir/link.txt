@@ -1,0 +1,1 @@
+/sbin/g++-12 -g CMakeFiles/sielu_form.dir/src/main.cpp.o -o sielu_form 

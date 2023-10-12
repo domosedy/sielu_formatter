@@ -1,0 +1,8 @@
+Enum=CamelCase
+Class=CamelCase
+
+VarClass=CamelCase
+VarFunc=snake_case
+
+Function=CAPS_CASE
+Constant=CAPS_CASE
